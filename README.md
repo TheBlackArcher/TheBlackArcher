@@ -1,5 +1,9 @@
-d.s#6153 on discord
+### Hi it's Den 
+______________
+* I'm learning Python, Javascript and C++
+* I know a bit of cyber-security
+* I'd like to make a cheat for a game sometime in the future
 
-Python executer
+I use atom, Pycharm and Webstorm
 
-![](https://komarev.com/ghpvc/?username=TheBlackArcher&color=brightgreen)
+Den#5646
